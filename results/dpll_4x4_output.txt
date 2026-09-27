@@ -1,0 +1,17 @@
+Puzzle:
+. 4 | . 2 
+2 3 | . . 
++-----+-----+
+. . | . 3 
+. . | . 4 
+
+598 CNF clauses generated
+Solved in 115.13 ms
+Satisfiable: True
+
+Solution:
+1 4 | 3 2 
+2 3 | 4 1 
++-----+-----+
+4 1 | 2 3 
+3 2 | 1 4 
